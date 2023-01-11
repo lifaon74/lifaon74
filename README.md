@@ -20,7 +20,7 @@
 I am a Senior Front-end Developer from Switzerland.
 
 - 🔭 I'm working as a front-end developper and love building web applications, as well as open source libraries.
-- 🌱 I love creating and sharing custom libraries, that I ope may helper other developpers.
+- 🌱 I love creating and sharing custom libraries, and I beleave in free open source ecosystems build from thousands of developpers.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-valentin_richard-blue?style=flat&logo=Linkedin&logoColor=white)](https://ch.linkedin.com/in/richard-valentin/en?trk=people-guest_people_search-card)
 
 
