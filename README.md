@@ -5,9 +5,11 @@
     <a href="https://ch.linkedin.com/in/richard-valentin/en?trk=people-guest_people_search-card">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=lifaon74&style=flat-square&color=blue" alt=""/>
+    <br/>
+    <img src="https://img.shields.io/github/stars/lifaon74" alt="github's stars"/>
   </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=lifaon74&style=flat-square&color=blue" alt=""/>
 
   <h1>
     Hey there
@@ -27,7 +29,6 @@ I am a Senior Front-end Developer from Switzerland.
 ### :fire: My biggest achievements so far:
 
 - 🪄 [@lirx/core](https://core.lirx.org/docs/documentation/getting-started/introduction/): a reactive library to manage complex data flows with ease.
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
