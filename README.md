@@ -26,9 +26,9 @@ I am a Senior Front-end Developer from Switzerland.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-valentin_richard-blue?style=flat&logo=Linkedin&logoColor=white)](https://ch.linkedin.com/in/richard-valentin/en?trk=people-guest_people_search-card)
 
 
-### :fire: My biggest achievements so far:
+### :fire: What I'm currently working on:
 
-- 🪄 [@lirx/core](https://core.lirx.org/docs/documentation/getting-started/introduction/): a reactive library to manage complex data flows with ease.
+- 🪄 [Infomaniak's Design System](https://github.com/Infomaniak/design-system) ([doc](https://infomaniak.github.io/design-system/storybook/main/)): the design system of Infomaniak (a Swiss hosting company)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
