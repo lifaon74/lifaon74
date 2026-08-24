@@ -28,7 +28,7 @@ I am a Senior Front-end Developer from Switzerland.
 
 ### :fire: What I'm currently working on:
 
-- 🪄 [Infomaniak's Design System](https://github.com/Infomaniak/design-system) ([doc](https://infomaniak.github.io/design-system/storybook/main/)): the design system of Infomaniak (a Swiss hosting company)
+- 🪄 [Infomaniak's Design System](https://github.com/Infomaniak/design-system) ([doc](https://infomaniak.github.io/design-system/storybook/main/)): tech lead of the Infomaniak's design system (a Swiss hosting company)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
